@@ -247,15 +247,13 @@
     outline: 1px black solid;
 }
 .item-card{
-    border: 3px #FF9100 solid;
+    /* border: 3px #FF9100 solid; */
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     margin: 0px 40px;
-    
-    /* border: 2px red solid; */
 }
 .item-card .card{
     border: 3px #FAD709 solid;
