@@ -247,7 +247,7 @@
     outline: 1px black solid;
 }
 .item-card{
-    /* border: 3px #FF9100 solid; */
+    border: 3px #FF9100 solid;
     display: flex;
     justify-content: center;
     align-items: center;
