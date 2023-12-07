@@ -149,7 +149,7 @@
     background: #F8F8F8; 
 }
 
-.big-card .card-title {
+.big-card .card-title h2{
     color: #151515;
     text-align: center;
     font-family: Poppins;
@@ -170,19 +170,19 @@
 
 .big-card .card_body {
     border-radius: 0px 0px 5.833px 5.833px;
-    border: 1.167px solid #EEE;
+    border: 1.5px solid #EEE;
     background: #FFF;
 }
 
-.big-card .card_body h2{
-    font-size: 20px;
-}
-
-.big-card .card-body_title {
+.card_body .card-body_title {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px;
+}
+
+.card_body .card-body_title h2{
+    font-size: 20px;
 }
 
 .card-categories {
