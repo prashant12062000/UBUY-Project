@@ -100,7 +100,7 @@
     height: 218px;
     /* padding: 1px 0px 1px 0px; */
     justify-content: space-around;
-    align-items: center;
+    align-items: baseline;
     margin-left: 60px;
     margin-right: 60px;
     background: linear-gradient(-103deg, #FFF 0%, #EEE 96.12%), linear-gradient(0deg, #FFF 0%, #FFF 100%), #D9D9D9;
@@ -140,6 +140,8 @@
 .offers-section-card {
     display: flex;
     margin: 60px;
+    gap: 15px;
+    padding: 0px 10px 0px 10px;
 }
 
 .big-card {
@@ -150,6 +152,7 @@
 }
 
 .big-card .card-title h2{
+    margin: auto;
     color: #151515;
     text-align: center;
     font-family: Poppins;
@@ -229,7 +232,7 @@
 .brands-name div{
     color: #151515;
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 600;
     line-height: 137.5%; 
@@ -239,7 +242,7 @@
 }
 .brands-name div p{
     width: 180px;
-    height: 50px;
+    /* height: 50px; */
     border: 3px #FF9100 solid;
     /* color: white; */
     padding: 10px;
