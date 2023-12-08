@@ -269,7 +269,7 @@
 /* Resposive For Mobile Device */
 
 @media screen and (max-width:1024px) {
-    .offers-section-card{
+    /* .offers-section-card{
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -295,5 +295,5 @@
     .item-card div{
         width: 100px;
         height: auto;
-    }
+    } */
 }
