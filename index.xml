@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="page.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
-    <title>உப்பையின் பழம் வெள்ளி</title>
+    <title>UBUY'S BLACK FRIDAY</title>
 </head>
 
 <body>
@@ -16,9 +16,9 @@
         <header>
             <div class="hbg-1">
                 <div class="hbg-1c1">
-                    <p class="ubuys">உபாயின்</p>
-                    <p class="blackfriday">கருப்பு வெள்ளி விற்பனை சலுகைகள்</p>
-                    <p class="upto">அது வரை <span>80% </span> தயாரிப்புகளின் விலையில் ஆஃப்</p>
+                    <p class="ubuys">UBUY'S</p>
+                    <p class="blackfriday">BLACK FRIDAY SALE OFFERS</p>
+                    <p class="upto">Upto <span>80% </span> OFF on Products' Price</p>
                 </div>
                 <div class="hbg-1c2">
                     <img src="./Images/hbg-1-wow-image.png" alt="Image" />
@@ -26,45 +26,45 @@
             </div>
             <div class="hbh-2">
                 <p>
-                    <i class="fa-regular fa-circle-check"></i>100% அசல் தயாரிப்புகள்
+                    <i class="fa-regular fa-circle-check"></i>100% ORIGINAL PRODUCTS
                 </p>
-                <p><i class="fa-solid fa-globe"></i>100M+ உலகளாவிய தயாரிப்புகள்</p>
-                <p><i class="fa-solid fa-shield-halved"></i>100% பாதுகாப்பான கட்டணங்கள்</p>
+                <p><i class="fa-solid fa-globe"></i>100M+ GLOBAL PRODUCTS</p>
+                <p><i class="fa-solid fa-shield-halved"></i>100% SECURE PAYMENTS</p>
             </div>
         </header>
         <section class="product_categories">
             <div class="product_categories_list">
                 <div>
                     <i class="fa-regular fa-lightbulb"></i>
-                    <h3>படைப்பாளர் சிறப்புப் பிரிவு</h3>
+                    <h3>Creator Special Section</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-brain"></i>
-                    <h3>AI இயங்கும் கேஜெட்டுகள்</h3>
+                    <h3>AI Powered Gadgets</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-chalkboard"></i>
-                    <h3>குழந்தைகள் கற்றல் தொழில்நுட்பம்</h3>
+                    <h3>Kids Learing Tech</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-house"></i>
-                    <h3>ஸ்மார்ட் ஹோம் சாதனங்கள்</h3>
+                    <h3>Smart Home Devices</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-heart-pulse"></i>
-                    <h3>உடல்நலம் மற்றும் தனிப்பட்ட பராமரிப்பு கேஜெட்டுகள்</h3>
+                    <h3>Health& Personal Care Gadgets</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-car"></i>
-                    <h3>வாகன பாகங்கள் மற்றும் பாகங்கள்</h3>
+                    <h3>Automotive Accessories & Parts</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-headphones"></i>
-                    <h3>ஆடியோ மற்றும் வீடியோ கேஜெட்டுகள்</h3>
+                    <h3>Audio & Video Gadgets</h3>
                 </div>
                 <div>
                     <i class="fa-solid fa-tv"></i>
-                    <h3>வீட்டு பொழுதுபோக்கு தயாரிப்புகள்</h3>
+                    <h3>Home Enterainment Products</h3>
                 </div>
             </div>
         </section>
@@ -73,39 +73,38 @@
             <div class="offers-section-card">
                 <div class="big-card left col-6">
                     <div class="card-title">
-                        <h2>அது வரை <span>20% </span>முடக்கப்பட்டுள்ளது</h2>
+                        <h2>UP TO <span>20% </span>OFF</h2>
                     </div>
                     <div class="card_body">
                         <div class="card-body_title">
-                            <h2>படைப்பாளர் சிறப்புப் பிரிவு</h2>
+                            <h2>Creator Special Section</h2>
                             <h2>
-                                மேலும் பார்க்க<i class="fa-solid fa-arrow-up-right-from-square"
-                                    style="margin-left: 5px;"></i>
+                                View More<i class="fa-solid fa-arrow-up-right-from-square" style="margin-left: 5px;"></i>
                             </h2>
                         </div>
                         <div class="card-categories">
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">கேமிங் அமைவு பாகங்கள்.</p>
+                                    <p class="card-text">Gaming Setup Accessories.</p>
                                 </div>
                             </div>
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">தினசரி Vlogging Toolkits.</p>
+                                    <p class="card-text">Daily Vlogging Toolkits.</p>
                                 </div>
                             </div>
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">Moto vlogging குழந்தைகள்.</p>
+                                    <p class="card-text">Moto Vlogging Kits.</p>
                                 </div>
                             </div>
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">பயண ஸ்மார்ட் கேஜெட்டுகள்.</p>
+                                    <p class="card-text">Travel Smart Gadgets.</p>
                                 </div>
                             </div>
                         </div>
@@ -114,39 +113,38 @@
                 </div>
                 <div class="big-card left col-6">
                     <div class="card-title">
-                        <h2>அது வரை <span>30% </span>முடக்கப்பட்டுள்ளது</h2>
+                        <h2>UP TO <span>30% </span>OFF</h2>
                     </div>
                     <div class="card_body">
                         <div class="card-body_title">
-                            <h2>படைப்பாளர் சிறப்புப் பிரிவு</h2>
+                            <h2>Creator Special Section</h2>
                             <h2>
-                                மேலும் பார்க்க<i class="fa-solid fa-arrow-up-right-from-square"
-                                    style="margin-left: 5px;"></i>
+                                View More<i class="fa-solid fa-arrow-up-right-from-square" style="margin-left: 5px;"></i>
                             </h2>
                         </div>
                         <div class="card-categories">
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">கேமிங் அமைவு பாகங்கள்.</p>
+                                    <p class="card-text">Gaming Setup Accessories.</p>
                                 </div>
                             </div>
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">தினசரி Vlogging Toolkits.</p>
+                                    <p class="card-text">Daily Vlogging Toolkits.</p>
                                 </div>
                             </div>
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">Moto vlogging குழந்தைகள்.</p>
+                                    <p class="card-text">Moto Vlogging Kits.</p>
                                 </div>
                             </div>
                             <div class="card" style="width: 18rem; margin:5px">
                                 <img src="./Images/laptop-game.png" class="card-img-top" alt="..." />
                                 <div class="card-body">
-                                    <p class="card-text">பயண ஸ்மார்ட் கேஜெட்டுகள்.</p>
+                                    <p class="card-text">Travel Smart Gadgets.</p>
                                 </div>
                             </div>
                         </div>
@@ -160,7 +158,7 @@
         <section>
             <div class="brands-heading">
                 <img src="./Images/Frame.svg" alt="Halloween image">
-                <h2>சிறந்த உலகளாவிய பிராண்டுகளில் சேமிக்கவும், இந்த ஹாலோவீன்</h2>
+                <h2>Save on Top Global Brands, this Halloween</h2>
                 <img src="./Images/Frame.svg" alt="Halloween image">
             </div>
         </section>
@@ -168,40 +166,40 @@
         <section>
             <div class="brands-name">
                 <div>
-                    <p>ஸ்பூக்டாகுலர் படைப்புகள்</p>
+                    <p>Spooktacular Creations</p>
                 </div>
                 <div>
-                    <p>ஸ்பிரிட் ஹாலோவீன்</p>
+                    <p>Spirit Halloween</p>
                 </div>
                 <div>
-                    <p>CCBEAUTY கிரியேஷன்ஸ்</p>
+                    <p>CCBEAUTY Creations</p>
                 </div>
                 <div>
-                    <p>புலெக்ஸ்</p>
+                    <p>Bulex</p>
                 </div>
                 <div>
-                    <p>கூஷ்</p>
+                    <p>Goosh</p>
                 </div>
                 <div>
-                    <p>க்ரீப்பி பார்ட்டி</p>
+                    <p>CreepyParty</p>
                 </div>
                 <div>
-                    <p>வேடிக்கை எக்ஸ்பிரஸ்</p>
+                    <p>Fun Express</p>
                 </div>
                 <div>
-                    <p>ஏஞ்சலிகோஸ்</p>
+                    <p>Angelaicos</p>
                 </div>
                 <div>
-                    <p>உடையணிந்த டெய்சி</p>
+                    <p>Dressy Daisy</p>
                 </div>
                 <div>
-                    <p>கார்லேரி</p>
+                    <p>Karlery</p>
                 </div>
                 <div>
-                    <p>சாசாக்</p>
+                    <p>Sazac</p>
                 </div>
                 <div>
-                    <p>மொலேசு</p>
+                    <p>Molezu</p>
                 </div>
             </div>
         </section>
@@ -212,7 +210,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">ட்விலைட் ஸ்டார்ஸ் புரொஜெக்டர் </h5>
+                            <h5 class="card-title">Twilight Stars Projector </h5>
                         </div>
                     </div>
                 </div>
@@ -220,7 +218,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">ட்விலைட் ஸ்டார்ஸ் புரொஜெக்டர்</h5>
+                            <h5 class="card-title">Twilight Stars Projector </h5>
                         </div>
                     </div>
                 </div>
@@ -228,7 +226,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">கார் டிரைவிங் ரெக்கார்டர்</h5>
+                            <h5 class="card-title">Car Driving Recorder</h5>
 
                         </div>
                     </div>
@@ -237,7 +235,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">மொபைல் போன் ரேடியேட்டர்</h5>
+                            <h5 class="card-title">Mobile Phone Radiator</h5>
 
                         </div>
                     </div>
@@ -246,7 +244,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">தானியங்கி காபி கிரைண்டர்</h5>
+                            <h5 class="card-title">Automatic Coffee Grinder</h5>
 
                         </div>
                     </div>
@@ -255,7 +253,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">தண்டர் கிளவுட் லைட்</h5>
+                            <h5 class="card-title">Thunder Cloud Light</h5>
 
                         </div>
                     </div>
@@ -264,7 +262,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">LED RGB ஹெட்லைட்</h5>
+                            <h5 class="card-title">LED RGB HeadLight</h5>
 
                         </div>
                     </div>
@@ -273,7 +271,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">போர்ட்டபிள் கார் ஃப்ரிட்ஜ்</h5>
+                            <h5 class="card-title">Portable Car Fridge</h5>
 
                         </div>
                     </div>
@@ -282,7 +280,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">வெற்றிட சிகிச்சை இயந்திரம்</h5>
+                            <h5 class="card-title">Vacuum Therapy Machine</h5>
 
                         </div>
                     </div>
@@ -291,7 +289,7 @@
                     <div class="card">
                         <img src="./Images/lamp.png" class="card-img-top" alt="...">
                         <div class="card-body" style="background-color: #FAD709; text-align: center;">
-                            <h5 class="card-title">பாதுகாப்பு லேபிள் பிரிண்டர்</h5>
+                            <h5 class="card-title">Safety Label Printer</h5>
 
                         </div>
                     </div>
