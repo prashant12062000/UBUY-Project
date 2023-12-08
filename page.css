@@ -268,8 +268,8 @@
 
 /* Resposive For Mobile Device */
 
-@media screen and (max-width:1024px) {
-    /* .offers-section-card{
+/* @media screen and (max-width:1024px) {
+     .offers-section-card{
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -295,5 +295,44 @@
     .item-card div{
         width: 100px;
         height: auto;
-    } */
+    } 
+} */
+@media screen and (max-width:768px)  {
+    .hbg-1{
+        display: flex;
+        justify-content: space-around;
+    }
+    .hbg-1c1{
+        /* border: 2px white solid; */
+        width: 335px;
+        height: auto;
+        /* text-align: center; */
+        margin-left: 40px;
+        font-size: 12px;
+    }
+    .hbg-1c1 .blackfriday{
+        font-size: 30px;
+    }
+    .hbg-1c1 .upto{
+        font-size: 20px;
+    }
+    .hbg-1c2{
+        margin: 10px;
+        padding: 10px;
+    }
+    .hbg-1c2 img{
+        width: 252px;
+        /* margin-right: 10px; */
+        height: 279px;
+    }
+    .item-card {
+        /* width: 200px;
+        margin: 0px 10px; */
+        display: flex;
+        margin: 0px 20px;
+    }
+    .item-card .lastChild{
+        display: none;
+    }
+    
 }
