@@ -208,7 +208,7 @@
 }
 
 .brands-heading h2 {
-    width: 370px;
+    width: 375px;
     color: #151515;
     text-align: center;
     font-family: Poppins;
@@ -268,35 +268,6 @@
 
 /* Resposive For Mobile Device */
 
-/* @media screen and (max-width:1024px) {
-     .offers-section-card{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        
-    }
-    .big-card{
-        width: 100%;
-    }
-
-    .card-categories{
-        width: 100px;
-        display: flex;
-        flex-direction: column;
-    }
-    .item-card{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-        margin: 20px;
-    }
-    .item-card div{
-        width: 100px;
-        height: auto;
-    } 
-} */
 @media screen and (max-width:768px)  {
     .hbg-1{
         display: flex;
