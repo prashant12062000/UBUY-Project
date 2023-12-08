@@ -263,3 +263,37 @@
     width: 220px;
     margin: 10px;
 }
+
+
+
+/* Resposive For Mobile Device */
+
+@media screen and (max-width:1024px) {
+    .offers-section-card{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .big-card{
+        width: 100%;
+    }
+
+    .card-categories{
+        width: 100px;
+        display: flex;
+        flex-direction: column;
+    }
+    .item-card{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 20px;
+    }
+    .item-card div{
+        width: 100px;
+        height: auto;
+    }
+}
